@@ -12,3 +12,7 @@ You’ve somehow accepted an incredibly weird project to design a website for cu
 * Follower can join a cult
 * Follower CANNOT LEAVE A CULT
 * Cult can change name and slogan
+* A cult's slogan must be unique
+* A cult's slogan cannot be over 200 characters
+* A follower's age cannot be under 18 
+
