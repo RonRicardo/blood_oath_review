@@ -11,4 +11,4 @@ You’ve somehow accepted an incredibly weird project to design a website for cu
 * Cult can be created
 * Follower can join a cult
 * Follower CANNOT LEAVE A CULT
-* Cult can change name && slogan
+* Cult can change name and slogan
