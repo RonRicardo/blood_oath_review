@@ -7,7 +7,7 @@ You’ve somehow accepted an incredibly weird project to design a website for cu
 - A blood oath is between a cult and a follower
 
 ## Deliverables:
-* Follower can sign up
+* New followers can be instantiated
 * Cult can be created
 * Follower can join a cult
 * Follower CANNOT LEAVE A CULT
