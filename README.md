@@ -7,12 +7,14 @@ You’ve somehow accepted an incredibly weird project to design a website for cu
 - A blood oath is between a cult and a follower
 
 ## Deliverables:
-* New followers can be instantiated
-* Cult can be created
-* Follower can join a cult
-* Follower CANNOT LEAVE A CULT
-* Cult can change name and slogan
-* A cult's slogan must be unique
-* A cult's slogan cannot be over 200 characters
-* A follower's age cannot be under 18 
+* Followers
+  * New followers can be instantiated
+  * Follower can join a cult
+  * Follower CANNOT LEAVE A CULT
+  * A follower's age cannot be under 18 
 
+* Cults
+  * Cult can be created
+  * Cult can change name and slogan
+  * Cult's slogan must be unique
+  * Cult's slogan cannot be over 200 characters
