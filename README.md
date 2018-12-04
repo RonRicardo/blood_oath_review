@@ -8,12 +8,14 @@ You’ve somehow accepted an incredibly weird project to design a website for cu
 
 ## Deliverables:
 * Followers
+  * A follower has a name and age
   * New followers can be instantiated
-  * Follower can join a cult
+  * Follower can join only one cult 
   * Follower CANNOT LEAVE A CULT
   * A follower's age cannot be under 18 
 
 * Cults
+  * A cult has a name and slogan
   * Cult can be created
   * Cult can change name and slogan
   * Cult's slogan must be unique
