@@ -10,7 +10,7 @@ You’ve somehow accepted an incredibly weird project to design a website for cu
 * Followers
   * A follower has a name and age
   * New followers can be instantiated
-  * Follower can join only one cult 
+  * Follower can join multiple cults 
   * Follower CANNOT LEAVE A CULT
   * A follower's age cannot be under 18 
 
